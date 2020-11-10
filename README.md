@@ -2,7 +2,7 @@
 
 A **group project** implemented in February 2020 for the third year Mobile Robot Systems course at the University of Cambridge
 
-*Project contributors: Benjamin Philps (BenjaminPhi5) and Ajay Ahir (DoodleBobBuffPants)*
+The project report can be found at: `report.pdf`
 
 The results of the project can be found in a video I compiled (`MultiRobotFormationControl.mp4`)
 
@@ -20,3 +20,5 @@ An overview of the project work can be found in the presentation `MultiRobotForm
 *NOTE: If you change the starting positions of the robots in the environment, you need to recompute a new path, then either store it in the precomputed paths file or reset the starting positions*
 
 To run the decentralised version, start any map as usual then launch formation_move_decentralized.launch for each robot, supplying id as an arg (e.g id:=1)
+
+*Project contributors: Benjamin Philps (BenjaminPhi5) and Ajay Ahir (DoodleBobBuffPants)* 
