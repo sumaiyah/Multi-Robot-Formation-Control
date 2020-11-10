@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="exercises" type="formation_move.py" name="formation_move" output="screen"></node>
+</launch>

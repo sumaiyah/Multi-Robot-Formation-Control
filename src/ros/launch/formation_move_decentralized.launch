@@ -1,0 +1,5 @@
+<launch>
+	<arg name="id" />
+
+	<node pkg="exercises" type="formation_move_decentralized.py" name="formation_move_decentralized_$(arg id)" args="--id=$(arg id)" output="screen"></node>
+</launch>
