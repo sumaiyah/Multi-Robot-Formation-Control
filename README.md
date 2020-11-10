@@ -1,6 +1,6 @@
 # Multi-Robot-Formation-Control
 
-*A group project implemented in February 2020 for the third year Mobile Robot Systems course at the University of Cambridge*
+A **group project** implemented in February 2020 for the third year Mobile Robot Systems course at the University of Cambridge
 
 *Project contributors: Benjamin Philps (BenjaminPhi5) and Ajay Ahir (DoodleBobBuffPants)*
 
