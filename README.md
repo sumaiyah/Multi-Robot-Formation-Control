@@ -19,4 +19,4 @@ An overview of the project work can be found in the presentation `MultiRobotForm
 - Predefined paths are stored in the precomputed_rrt_paths.py file
 *NOTE: If you change the starting positions of the robots in the environment, you need to recompute a new path, then either store it in the precomputed paths file or reset the starting positions*
 
-To run the **decentralised** version, start any map as usual then launch formation_move_decentralized.launch for each robot, supplying id as an arg (e.g id:=1)
+To run the decentralised version, start any map as usual then launch formation_move_decentralized.launch for each robot, supplying id as an arg (e.g id:=1)
