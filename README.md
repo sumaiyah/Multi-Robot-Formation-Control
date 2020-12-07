@@ -21,4 +21,4 @@ An overview of the project work can be found in the presentation `MultiRobotForm
 
 To run the decentralised version, start any map as usual then launch formation_move_decentralized.launch for each robot, supplying id as an arg (e.g id:=1)
 
-*Project contributors: Benjamin Philps (BenjaminPhi5) and Ajay Ahir (DoodleBobBuffPants)* 
+*Project contributors: Benjamin Philps (BenjaminPhi5), Sumaiyah Kola (sumaiyah) and Ajay Ahir (DoodleBobBuffPants)* 
